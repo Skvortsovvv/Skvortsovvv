@@ -1,8 +1,8 @@
 ### Hello, I'm Vladimir!
 
 Education:
-  Degree: Student at Bauman Moscow State Technical Univesity
-  Major: Computer Information Security
+  * Degree: Student at Bauman Moscow State Technical Univesity
+  * Major: Computer Information Security
 
 Skills:
   * C/C++, Python (a little bit), Golang, CI
