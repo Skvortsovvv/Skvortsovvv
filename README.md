@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Vladimir!
 
-<!--
-**Skvortsovvv/Skvortsovvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education:
+  Degree: Student at Bauman Moscow State Technical Univesity
+  Major: Computer Information Security
 
-Here are some ideas to get you started:
+Skills:
+  * C/C++, Python (a little bit), Golang, CI
+  * Algorithms
+  
+Goal:
+  Get better every day and become a great software engineer 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skvortsovvv)](https://github.com/anuraghazra/github-readme-stats)
