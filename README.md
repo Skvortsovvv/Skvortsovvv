@@ -1,6 +1,6 @@
 ### Hello, I'm Vladimir!
 
-Education: \
+Education:
   * Degree: Student at Bauman Moscow State Technical Univesity
   * Major: Computer Information Security
 
