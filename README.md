@@ -9,8 +9,6 @@ Skills:
   * CI
   * Algorithms
   
-Goal:
-  Get better every day and become a great software engineer 🚀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skvortsovvv)](https://github.com/anuraghazra/github-readme-stats) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skvortsovvv&layout=compact&langs_count=4&hide=javascript,html,shell,makefile,cmake)](https://github.com/anuraghazra/github-readme-stats) \
