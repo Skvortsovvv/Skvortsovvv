@@ -5,7 +5,7 @@ Education:
   * Major: Computer Information Security
 
 Skills:
-  * C/C++, Golang, Python (a little bit) 
+  * C/C++, Golang, Python 
   * CI
   * Algorithms
   
