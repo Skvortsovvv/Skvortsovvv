@@ -8,6 +8,4 @@ Skills:
   * C/C++, Golang, Python 
   * CI
   * Algorithms
-  
-(https://github.com/anuraghazra/github-readme-stats) \
-![](https://komarev.com/ghpvc/?username=Skvortosvvv)
+
